@@ -7,7 +7,7 @@ public class A {
   System.out.println("after devB");
 
   System.out.println("after devC");
-
+  System.out.println("a º¯°æ ");
 	}
 
 }
